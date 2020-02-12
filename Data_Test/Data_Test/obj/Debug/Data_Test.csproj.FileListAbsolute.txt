@@ -1,0 +1,9 @@
+C:\workspace_C#\Data_Test\Data_Test\bin\Debug\Data_Test.exe.config
+C:\workspace_C#\Data_Test\Data_Test\bin\Debug\Data_Test.exe
+C:\workspace_C#\Data_Test\Data_Test\bin\Debug\Data_Test.pdb
+C:\workspace_C#\Data_Test\Data_Test\obj\Debug\Data_Test.csprojResolveAssemblyReference.cache
+C:\workspace_C#\Data_Test\Data_Test\obj\Debug\Data_Test.Form1.resources
+C:\workspace_C#\Data_Test\Data_Test\obj\Debug\Data_Test.Properties.Resources.resources
+C:\workspace_C#\Data_Test\Data_Test\obj\Debug\Data_Test.csproj.GenerateResource.Cache
+C:\workspace_C#\Data_Test\Data_Test\obj\Debug\Data_Test.exe
+C:\workspace_C#\Data_Test\Data_Test\obj\Debug\Data_Test.pdb

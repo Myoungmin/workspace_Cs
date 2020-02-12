@@ -1,0 +1,9 @@
+C:\workspace_C#\Serial_Test2\Serial_Test2\bin\Debug\Serial_Test2.exe.config
+C:\workspace_C#\Serial_Test2\Serial_Test2\bin\Debug\Serial_Test2.exe
+C:\workspace_C#\Serial_Test2\Serial_Test2\bin\Debug\Serial_Test2.pdb
+C:\workspace_C#\Serial_Test2\Serial_Test2\obj\Debug\Serial_Test2.csprojResolveAssemblyReference.cache
+C:\workspace_C#\Serial_Test2\Serial_Test2\obj\Debug\Serial_Test2.Form1.resources
+C:\workspace_C#\Serial_Test2\Serial_Test2\obj\Debug\Serial_Test2.Properties.Resources.resources
+C:\workspace_C#\Serial_Test2\Serial_Test2\obj\Debug\Serial_Test2.csproj.GenerateResource.Cache
+C:\workspace_C#\Serial_Test2\Serial_Test2\obj\Debug\Serial_Test2.exe
+C:\workspace_C#\Serial_Test2\Serial_Test2\obj\Debug\Serial_Test2.pdb

@@ -1,0 +1,9 @@
+C:\workspace_C#\Atmega128_Timer_Calculator\Atmega128_Timer_Calculator\bin\Release\Atmega128_Timer_Calculator.exe.config
+C:\workspace_C#\Atmega128_Timer_Calculator\Atmega128_Timer_Calculator\bin\Release\Atmega128_Timer_Calculator.exe
+C:\workspace_C#\Atmega128_Timer_Calculator\Atmega128_Timer_Calculator\bin\Release\Atmega128_Timer_Calculator.pdb
+C:\workspace_C#\Atmega128_Timer_Calculator\Atmega128_Timer_Calculator\obj\Release\Atmega128_Timer_Calculator.Form1.resources
+C:\workspace_C#\Atmega128_Timer_Calculator\Atmega128_Timer_Calculator\obj\Release\Atmega128_Timer_Calculator.Form2.resources
+C:\workspace_C#\Atmega128_Timer_Calculator\Atmega128_Timer_Calculator\obj\Release\Atmega128_Timer_Calculator.Properties.Resources.resources
+C:\workspace_C#\Atmega128_Timer_Calculator\Atmega128_Timer_Calculator\obj\Release\Atmega128_Timer_Calculator.csproj.GenerateResource.Cache
+C:\workspace_C#\Atmega128_Timer_Calculator\Atmega128_Timer_Calculator\obj\Release\Atmega128_Timer_Calculator.exe
+C:\workspace_C#\Atmega128_Timer_Calculator\Atmega128_Timer_Calculator\obj\Release\Atmega128_Timer_Calculator.pdb

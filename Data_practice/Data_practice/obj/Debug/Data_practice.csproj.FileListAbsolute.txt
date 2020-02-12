@@ -1,0 +1,9 @@
+C:\workspace_C#\Data_practice\Data_practice\bin\Debug\Data_practice.exe.config
+C:\workspace_C#\Data_practice\Data_practice\bin\Debug\Data_practice.exe
+C:\workspace_C#\Data_practice\Data_practice\bin\Debug\Data_practice.pdb
+C:\workspace_C#\Data_practice\Data_practice\obj\Debug\Data_practice.Form1.resources
+C:\workspace_C#\Data_practice\Data_practice\obj\Debug\Data_practice.Properties.Resources.resources
+C:\workspace_C#\Data_practice\Data_practice\obj\Debug\Data_practice.csproj.GenerateResource.Cache
+C:\workspace_C#\Data_practice\Data_practice\obj\Debug\Data_practice.exe
+C:\workspace_C#\Data_practice\Data_practice\obj\Debug\Data_practice.pdb
+C:\workspace_C#\Data_practice\Data_practice\obj\Debug\Data_practice.csprojResolveAssemblyReference.cache

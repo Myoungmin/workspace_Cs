@@ -1,0 +1,11 @@
+C:\workspace_C#\Traffic_Dead_Static\Traffic_Dead_Static\bin\Debug\Traffic_Dead_Static.exe.config
+C:\workspace_C#\Traffic_Dead_Static\Traffic_Dead_Static\bin\Debug\Traffic_Dead_Static.exe
+C:\workspace_C#\Traffic_Dead_Static\Traffic_Dead_Static\bin\Debug\Traffic_Dead_Static.pdb
+C:\workspace_C#\Traffic_Dead_Static\Traffic_Dead_Static\obj\Debug\Traffic_Dead_Static.csprojResolveAssemblyReference.cache
+C:\workspace_C#\Traffic_Dead_Static\Traffic_Dead_Static\obj\Debug\Traffic_Dead_Static.Form1.resources
+C:\workspace_C#\Traffic_Dead_Static\Traffic_Dead_Static\obj\Debug\Traffic_Dead_Static.Properties.Resources.resources
+C:\workspace_C#\Traffic_Dead_Static\Traffic_Dead_Static\obj\Debug\Traffic_Dead_Static.csproj.GenerateResource.Cache
+C:\workspace_C#\Traffic_Dead_Static\Traffic_Dead_Static\obj\Debug\Traffic_Dead_Static.exe
+C:\workspace_C#\Traffic_Dead_Static\Traffic_Dead_Static\obj\Debug\Traffic_Dead_Static.pdb
+C:\workspace_C#\Traffic_Dead_Static\Traffic_Dead_Static\obj\Debug\Traffic_Dead_Static.result.resources
+C:\workspace_C#\Traffic_Dead_Static\Traffic_Dead_Static\obj\Debug\Traffic_Dead_Static.report.resources

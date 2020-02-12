@@ -1,0 +1,10 @@
+C:\workspace_C#\practice\practice\bin\Debug\practice.exe.config
+C:\workspace_C#\practice\practice\bin\Debug\practice.exe
+C:\workspace_C#\practice\practice\bin\Debug\practice.pdb
+C:\workspace_C#\practice\practice\obj\Debug\practice.csprojResolveAssemblyReference.cache
+C:\workspace_C#\practice\practice\obj\Debug\practice.Properties.Resources.resources
+C:\workspace_C#\practice\practice\obj\Debug\practice.csproj.GenerateResource.Cache
+C:\workspace_C#\practice\practice\obj\Debug\practice.exe
+C:\workspace_C#\practice\practice\obj\Debug\practice.pdb
+C:\workspace_C#\practice\practice\obj\Debug\practice.Form1.resources
+C:\workspace_C#\practice\practice\obj\Debug\practice.AddForm.resources

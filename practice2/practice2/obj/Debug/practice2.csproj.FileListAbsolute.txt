@@ -1,0 +1,9 @@
+C:\workspace_C#\practice2\practice2\bin\Debug\practice2.exe.config
+C:\workspace_C#\practice2\practice2\bin\Debug\practice2.exe
+C:\workspace_C#\practice2\practice2\bin\Debug\practice2.pdb
+C:\workspace_C#\practice2\practice2\obj\Debug\practice2.csprojResolveAssemblyReference.cache
+C:\workspace_C#\practice2\practice2\obj\Debug\practice2.Form1.resources
+C:\workspace_C#\practice2\practice2\obj\Debug\practice2.Properties.Resources.resources
+C:\workspace_C#\practice2\practice2\obj\Debug\practice2.csproj.GenerateResource.Cache
+C:\workspace_C#\practice2\practice2\obj\Debug\practice2.exe
+C:\workspace_C#\practice2\practice2\obj\Debug\practice2.pdb

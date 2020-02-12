@@ -1,0 +1,9 @@
+C:\workspace_C#\System_Time_Check\System_Time_Check\bin\Debug\System_Time_Check.exe.config
+C:\workspace_C#\System_Time_Check\System_Time_Check\bin\Debug\System_Time_Check.exe
+C:\workspace_C#\System_Time_Check\System_Time_Check\bin\Debug\System_Time_Check.pdb
+C:\workspace_C#\System_Time_Check\System_Time_Check\obj\Debug\System_Time_Check.csprojResolveAssemblyReference.cache
+C:\workspace_C#\System_Time_Check\System_Time_Check\obj\Debug\System_Time_Check.Form1.resources
+C:\workspace_C#\System_Time_Check\System_Time_Check\obj\Debug\System_Time_Check.Properties.Resources.resources
+C:\workspace_C#\System_Time_Check\System_Time_Check\obj\Debug\System_Time_Check.csproj.GenerateResource.Cache
+C:\workspace_C#\System_Time_Check\System_Time_Check\obj\Debug\System_Time_Check.exe
+C:\workspace_C#\System_Time_Check\System_Time_Check\obj\Debug\System_Time_Check.pdb

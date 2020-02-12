@@ -1,0 +1,10 @@
+C:\workspace_C#\Auto_Control_Write_Log\Auto_Control_Write_Log\bin\Debug\Auto_Control_Write_Log.exe.config
+C:\workspace_C#\Auto_Control_Write_Log\Auto_Control_Write_Log\bin\Debug\Auto_Control_Write_Log.exe
+C:\workspace_C#\Auto_Control_Write_Log\Auto_Control_Write_Log\bin\Debug\Auto_Control_Write_Log.pdb
+C:\workspace_C#\Auto_Control_Write_Log\Auto_Control_Write_Log\bin\Debug\ACTMULTILIB_K.dll
+C:\workspace_C#\Auto_Control_Write_Log\Auto_Control_Write_Log\obj\Debug\Auto_Control_Write_Log.csprojResolveAssemblyReference.cache
+C:\workspace_C#\Auto_Control_Write_Log\Auto_Control_Write_Log\obj\Debug\Auto_Control_Write_Log.Form1.resources
+C:\workspace_C#\Auto_Control_Write_Log\Auto_Control_Write_Log\obj\Debug\Auto_Control_Write_Log.Properties.Resources.resources
+C:\workspace_C#\Auto_Control_Write_Log\Auto_Control_Write_Log\obj\Debug\Auto_Control_Write_Log.csproj.GenerateResource.Cache
+C:\workspace_C#\Auto_Control_Write_Log\Auto_Control_Write_Log\obj\Debug\Auto_Control_Write_Log.exe
+C:\workspace_C#\Auto_Control_Write_Log\Auto_Control_Write_Log\obj\Debug\Auto_Control_Write_Log.pdb

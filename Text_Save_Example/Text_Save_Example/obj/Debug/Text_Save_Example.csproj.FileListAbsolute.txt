@@ -1,0 +1,9 @@
+C:\workspace_C#\Text_Save_Example\Text_Save_Example\bin\Debug\Text_Save_Example.exe.config
+C:\workspace_C#\Text_Save_Example\Text_Save_Example\bin\Debug\Text_Save_Example.exe
+C:\workspace_C#\Text_Save_Example\Text_Save_Example\bin\Debug\Text_Save_Example.pdb
+C:\workspace_C#\Text_Save_Example\Text_Save_Example\obj\Debug\Text_Save_Example.csprojResolveAssemblyReference.cache
+C:\workspace_C#\Text_Save_Example\Text_Save_Example\obj\Debug\Text_Save_Example.Form1.resources
+C:\workspace_C#\Text_Save_Example\Text_Save_Example\obj\Debug\Text_Save_Example.Properties.Resources.resources
+C:\workspace_C#\Text_Save_Example\Text_Save_Example\obj\Debug\Text_Save_Example.csproj.GenerateResource.Cache
+C:\workspace_C#\Text_Save_Example\Text_Save_Example\obj\Debug\Text_Save_Example.exe
+C:\workspace_C#\Text_Save_Example\Text_Save_Example\obj\Debug\Text_Save_Example.pdb

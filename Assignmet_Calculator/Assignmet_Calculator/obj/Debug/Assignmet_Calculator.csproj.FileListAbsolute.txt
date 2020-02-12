@@ -1,0 +1,9 @@
+C:\workspace_C#\Assignmet_Calculator\Assignmet_Calculator\bin\Debug\Assignmet_Calculator.exe.config
+C:\workspace_C#\Assignmet_Calculator\Assignmet_Calculator\bin\Debug\Assignmet_Calculator.exe
+C:\workspace_C#\Assignmet_Calculator\Assignmet_Calculator\bin\Debug\Assignmet_Calculator.pdb
+C:\workspace_C#\Assignmet_Calculator\Assignmet_Calculator\obj\Debug\Assignmet_Calculator.csprojResolveAssemblyReference.cache
+C:\workspace_C#\Assignmet_Calculator\Assignmet_Calculator\obj\Debug\Assignmet_Calculator.Form1.resources
+C:\workspace_C#\Assignmet_Calculator\Assignmet_Calculator\obj\Debug\Assignmet_Calculator.Properties.Resources.resources
+C:\workspace_C#\Assignmet_Calculator\Assignmet_Calculator\obj\Debug\Assignmet_Calculator.csproj.GenerateResource.Cache
+C:\workspace_C#\Assignmet_Calculator\Assignmet_Calculator\obj\Debug\Assignmet_Calculator.exe
+C:\workspace_C#\Assignmet_Calculator\Assignmet_Calculator\obj\Debug\Assignmet_Calculator.pdb

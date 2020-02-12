@@ -1,0 +1,10 @@
+C:\workspace_C#\Chart_Programming\Chart_Programming\bin\Debug\Chart_Programming.exe.config
+C:\workspace_C#\Chart_Programming\Chart_Programming\bin\Debug\Chart_Programming.exe
+C:\workspace_C#\Chart_Programming\Chart_Programming\bin\Debug\Chart_Programming.pdb
+C:\workspace_C#\Chart_Programming\Chart_Programming\bin\Debug\ACTMULTILIB_K.dll
+C:\workspace_C#\Chart_Programming\Chart_Programming\obj\Debug\Chart_Programming.csprojResolveAssemblyReference.cache
+C:\workspace_C#\Chart_Programming\Chart_Programming\obj\Debug\Chart_Programming.Form1.resources
+C:\workspace_C#\Chart_Programming\Chart_Programming\obj\Debug\Chart_Programming.Properties.Resources.resources
+C:\workspace_C#\Chart_Programming\Chart_Programming\obj\Debug\Chart_Programming.csproj.GenerateResource.Cache
+C:\workspace_C#\Chart_Programming\Chart_Programming\obj\Debug\Chart_Programming.exe
+C:\workspace_C#\Chart_Programming\Chart_Programming\obj\Debug\Chart_Programming.pdb
